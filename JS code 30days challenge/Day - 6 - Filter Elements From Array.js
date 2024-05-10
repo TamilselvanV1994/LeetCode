@@ -37,6 +37,8 @@ Constraints:
 0 <= arr.length <= 1000
 -109 <= arr[i] <= 109 */
 
+// -------------------Solution --------------
+
 /**
  * @param {number[]} arr
  * @param {Function} fn
